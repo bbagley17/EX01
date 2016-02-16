@@ -32,9 +32,9 @@ void arrayContains(int inputs[], int arraysize);
 
 int main()
 {
-	//ex02();
+	ex02();
 	ex03();
-	//ex04();
+	ex04();
 	ex05();
 	return 0;
 }
